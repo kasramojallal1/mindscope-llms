@@ -1,1 +1,1 @@
-# llm-all
+# mindscope-llms
